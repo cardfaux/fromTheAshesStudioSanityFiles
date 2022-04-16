@@ -1,3 +1,18 @@
+1. env variables in env.development for development
+
+```javascript
+SANITY_STUDIO_PROJECT_URL = YOUR_URL; // e.g http://localhost:3000
+SANITY_STUDIO_PREVIEW_SECRET = YOUR_SECRET; //unique string
+```
+
+2. run the dev server
+
+```bash
+npm run start
+or
+yarn start
+```
+
 # Sanity Clean Content Studio
 
 Congratulations, you have now installed the Sanity Content Studio, an open source real-time content editing environment connected to the Sanity backend.
