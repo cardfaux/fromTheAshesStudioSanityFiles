@@ -2,7 +2,7 @@
 
 ```javascript
 SANITY_STUDIO_PROJECT_URL = YOUR_URL; // e.g http://localhost:3000
-SANITY_STUDIO_PREVIEW_SECRET = YOUR_SECRET; //unique string
+SANITY_STUDIO_PREVIEW_SECRET = YOUR_SECRET; //unique string here
 ```
 
 2. run the dev server
